@@ -1,5 +1,3 @@
-vim
-
 " Enable syntax highlighting
 syntax on
 
